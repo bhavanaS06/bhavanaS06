@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhavana Singh.
 - 👀 I’m a Data Analyst.
 - 💞️ I’m skilled with SQL, Python, Tableau, Microsoft excel.
-- - 🌱 I’m currently working on different projects in Data Analysis and Visualization and looking to collaborate on such projects.
+- 🌱 I’m currently working on different projects in Data Analysis and Visualization, and looking to collaborate on such projects.
 - 📫 You can reach me at bhavana.60495@gmail.com .
 
 <!---
