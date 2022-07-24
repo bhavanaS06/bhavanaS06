@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavana Singh.
 - 👀 I’m a Data Engineer.
-- 💞️ I have expertise in SQL, Python, Azure cloud.
+- 💞️ I have expertise in building data pipelines, ETL/ELT in python, SQL, Python, PySpark, Azure cloud.
 - 🌱 I’m currently a data engineer intern at Lupin.
 - 📫 You can reach me at bhavana.60495@gmail.com.
 
