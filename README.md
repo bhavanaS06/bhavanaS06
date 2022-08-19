@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bhavana Singh.
-- 👀 I’m a Data Engineer.
-- 💞️ I have expertise in building data pipelines, ETL/ELT in python, SQL, Python, PySpark, Azure cloud.
-- 🌱 I’m currently a data engineer intern at Lupin.
-- 📫 You can reach me at bhavana.60495@gmail.com.
+- 👋 Hi, I’m Bhavana Singh, a Data Engineer.
+- 👀 I’m proficient in Python, SQL, Matlab, Azure storage services. 
+- 💞️ I am learning to build data pipelines, ETL/ELT tools, Spark.
+- 🌱 Currently, I am a data engineer intern at Lupin. Here, I'm actively involved in data lake project.
+- 📫 You can reach me at bhavana.60495@gmail.com, https://www.linkedin.com/in/bhavana-singh-aa08051b3.
 
 <!---
 bhavanaS06/bhavanaS06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
